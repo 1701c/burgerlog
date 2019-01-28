@@ -1,4 +1,4 @@
-#Eat-Da-Burger 
+# Eat-Da-Burger 
 Burger logger with MySQL, Node, Express, Handlebars and custom ORM.
 
 # ![Eat-Da-Burger App](public/assets/img/eatdaburger.png)
