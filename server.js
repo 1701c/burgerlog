@@ -3,7 +3,7 @@ var methodOverride = require("method-override");
 var exphbs = require("express-handlebars");
 var routes = require("./controllers/burgers_controller.js");
 
-var port = process.env || 3000;
+var port = process.env.PORT || 3000;
 
 var app = express();
 
